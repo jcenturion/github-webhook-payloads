@@ -1,0 +1,23 @@
+{
+  "name": "github-webhook-payloads",
+  "version": "1.0.0",
+  "description": "The goal of this library is to help you when testing your GitHub webhooks by providing a sample per event type/payload.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "javier.centurion@auth0.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcenturion/github-webhook-payloads.git"
+  },
+  "keywords": [
+    "github",
+    "webhook"
+  ],
+  "bugs": {
+    "url": "https://github.com/jcenturion/github-webhook-payloads/issues"
+  },
+  "homepage": "https://github.com/jcenturion/github-webhook-payloads#readme"
+}
