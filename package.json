@@ -1,6 +1,6 @@
 {
   "name": "github-webhook-payloads",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The goal of this library is to help you when testing your GitHub webhooks by providing a sample per event type/payload.",
   "main": "index.js",
   "scripts": {
