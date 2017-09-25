@@ -1,6 +1,6 @@
 module.exports = (action) => {
   return {
-  `"action": `${action || 'created'}`,
+  "action": `${action || 'created'}`,
     "installation": {
       "id": 2,
       "account": {
